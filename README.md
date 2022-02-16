@@ -1,1 +1,1 @@
-[![CI-CD-Pipeline-to-AWS-ElasticBeanstalk](https://github.com/edmitrenko/github-actions-cici-to-aws/actions/workflows/main.yml/badge.svg)](https://github.com/edmitrenko/github-actions-cici-to-aws/actions/workflows/main.yml)
+[![CI-CD-Pipeline-to-AWS-ElasticBeanstalk](https://github.com/edmitrenko/github-actions-cicd-to-aws/actions/workflows/main.yml/badge.svg)](https://github.com/edmitrenko/github-actions-cicd-to-aws/actions/workflows/main.yml)
