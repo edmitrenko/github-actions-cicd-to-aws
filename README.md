@@ -1,1 +1,1 @@
-# github-actions-cici-to-aws
+# github-actions-cicd-to-aws
